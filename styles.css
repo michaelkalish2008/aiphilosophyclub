@@ -40,8 +40,8 @@ header {
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    object-fit: contain;
-    object-position: center;
+    object-fit: cover;
+    object-position: center top;
     margin-bottom: 32px;
     border: 1px solid var(--border);
     opacity: 0.95;
