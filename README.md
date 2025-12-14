@@ -23,11 +23,3 @@ To deploy this site:
 1. Upload the files to your web hosting service
 2. Point your domain (aiphilosophyclub.com) to the hosting service
 3. Ensure `index.html` is set as the default page
-
-## Customization
-
-Update the placeholder links in `index.html`:
-- Replace `@yourusername` with your Substack username
-- Replace `@yourchannel` with your YouTube channel
-- Replace `/in/yourprofile` with your LinkedIn profile URL
-- GitHub link is already set to `michaelkalish2008`
