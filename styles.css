@@ -41,7 +41,7 @@ header {
     height: 120px;
     border-radius: 50%;
     object-fit: cover;
-    object-position: center top;
+    object-position: center 20%;
     margin-bottom: 32px;
     border: 1px solid var(--border);
     opacity: 0.95;
