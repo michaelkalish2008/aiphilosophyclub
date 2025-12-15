@@ -20,6 +20,7 @@ async function loadContent(file, elementId) {
 document.addEventListener('DOMContentLoaded', async () => {
     await Promise.all([
         loadContent('tagline.txt', 'tagline'),
+        loadContent('what-is-apc.txt', 'what-is-apc-content'),
         loadContent('about-me.txt', 'about-me-content'),
         loadContent('about-site.txt', 'about-site-content')
     ]);
